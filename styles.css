@@ -1,0 +1,43 @@
+.Madeleine{
+  color: rosybrown;
+  background-color: pink;
+  text-shadow: 2px 2px black;
+  font-family: 'Lobster', cursive;
+  text-decoration: underline overline wavy white;
+  line-height: 60px;
+  text-align: center;
+  border: 5px;
+  border-radius: 10px;
+  border-style: double;
+}
+
+.tab {
+  overflow: hidden;
+  background-color: white;
+  font-family: Arial;
+}
+
+
+.tabcontent {
+  /*
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid;
+  border-top: none;
+  */
+  font-family: Arial;
+}
+
+#MadeleineIntro{
+  color: black;
+  background-color: white;
+  text-shadow: 2px 2px white;
+  font-family: Arial;
+  border-style: none;
+  text-decoration:;
+}
+
+#MadeleineInfo{
+  color: black;
+  font-family: Arial;
+}
